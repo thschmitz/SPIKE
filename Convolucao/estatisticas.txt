@@ -1,0 +1,4 @@
+=== Estatísticas entre START e END ===
+Instruções executadas: 260016004
+Acessos de leitura (load): 68403343
+Acessos de escrita (store): 24711243
